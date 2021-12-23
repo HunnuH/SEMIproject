@@ -16,7 +16,7 @@
 
 ### 시스템 구성도
 
-![](img\system.PNG)
+<img src="img\system.PNG"/>
 
 
 
@@ -46,7 +46,7 @@
 
 ### 프로젝트 맴버
 
-![](img\member.PNG)
+<img src="img\member.PNG"/>
 
 ## web
 
@@ -122,15 +122,15 @@ public void onMessageReceived(@NonNull  RemoteMessage remoteMessage) {
 
 
 
-![](img\fcmled.png)
+<img src="img\fcmled.PNG"/>
 
 - FCM_LED
 
-![](img\fcmtemp.png)
+<img src="img\fcmtemp.PNG"/>
 
 - FCM_Temp
 
-![](img\fcmbtn.png)
+<img src="img\fcmbtn.PNG"/>
 
 - FCM_btn
 - IOT장비에서 송신한 데이터 값을 메인서버에서 수신하여 FireBase Server로 전송
@@ -139,6 +139,6 @@ public void onMessageReceived(@NonNull  RemoteMessage remoteMessage) {
 
 #### TCP/IP
 
-![](img\tcpip.PNG)
+<img src="img\tcpip.PNG"/>
 
 - 장비의 센서를 제어 하기 위해 코드작성
