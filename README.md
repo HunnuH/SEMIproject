@@ -122,15 +122,15 @@ public void onMessageReceived(@NonNull  RemoteMessage remoteMessage) {
 
 
 
-<img src="img\fcmled.PNG"/>
+<img src="img\fcmled.png"/>
 
 - FCM_LED
 
-<img src="img\fcmtemp.PNG"/>
+<img src="img\fcmtemp.png"/>
 
 - FCM_Temp
 
-<img src="img\fcmbtn.PNG"/>
+<img src="img\fcmbtn.png"/>
 
 - FCM_btn
 - IOT장비에서 송신한 데이터 값을 메인서버에서 수신하여 FireBase Server로 전송
