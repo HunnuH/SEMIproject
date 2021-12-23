@@ -16,7 +16,7 @@
 
 ### 시스템 구성도
 
-![](C:\Users\a\Desktop\img\system.PNG)
+![](img\system.PNG)
 
 
 
@@ -46,7 +46,7 @@
 
 ### 프로젝트 맴버
 
-![](C:\Users\a\Desktop\img\member.PNG)
+![](img\member.PNG)
 
 ## web
 
@@ -56,17 +56,17 @@
 
 #### 구성
 
-<img src="C:\Users\a\Desktop\img\home.PNG" style="zoom:80%;" />
+<img src="img\home.PNG" style="zoom:80%;" />
 
 - 앱실행시 초기화면
 
 
 
-<img src="C:\Users\a\Desktop\img\led.PNG" style="zoom: 75%;" /> <img src="C:\Users\a\Desktop\img\ledon.PNG" style="zoom: 75%;" />
+<img src="img\led.PNG" style="zoom: 75%;" /> <img src="img\ledon.PNG" style="zoom: 75%;" />
 
 - LED의 데이터값을 받아와서 현 상태 출력
 
-<img src="C:\Users\a\Desktop\img\temp.PNG" style="zoom:80%;" />
+<img src="img\temp.PNG" style="zoom:80%;" />
 
 - 온도의 데이터값을 실시간으로 FCM을 이용하여 출력
 
@@ -122,15 +122,15 @@ public void onMessageReceived(@NonNull  RemoteMessage remoteMessage) {
 
 
 
-![](C:\Users\a\Desktop\img\fcmled.png)
+![](img\fcmled.png)
 
 - FCM_LED
 
-![](C:\Users\a\Desktop\img\fcmtemp.png)
+![](img\fcmtemp.png)
 
 - FCM_Temp
 
-![](C:\Users\a\Desktop\img\fcmbtn.png)
+![](img\fcmbtn.png)
 
 - FCM_btn
 - IOT장비에서 송신한 데이터 값을 메인서버에서 수신하여 FireBase Server로 전송
@@ -139,6 +139,6 @@ public void onMessageReceived(@NonNull  RemoteMessage remoteMessage) {
 
 #### TCP/IP
 
-![](C:\Users\a\Desktop\img\tcpip.PNG)
+![](img\tcpip.PNG)
 
 - 장비의 센서를 제어 하기 위해 코드작성
